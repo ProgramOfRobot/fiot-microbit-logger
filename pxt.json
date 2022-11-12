@@ -1,5 +1,5 @@
 {
-    "name": "IoFT-microbit-logger",
+    "name": "FIot-microbit-logger",
     "description": "",
     "dependencies": {
         "core": "*",
